@@ -3897,8 +3897,8 @@ case '?': case 'menu': case 'help':
 txt = ` _*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
 
 *❏STASTISTIC:*
- ➣ *Upload:* ${cBandwidth.upload}
- ➣ *Download:* ${cBandwidth.download}
+ ・ *Upload:* ${cBandwidth.upload}
+ ・ *Download:* ${cBandwidth.download}
 
 *❏USER INFO*
  ・ *Username:* ${pushname}
